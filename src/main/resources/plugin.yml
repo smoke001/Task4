@@ -1,0 +1,7 @@
+name: Task4
+version: '${project.version}'
+main: me.smokesh.task4.Main
+authors: [smokeed_]
+
+commands:
+   prefix:
